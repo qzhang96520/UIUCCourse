@@ -1,7 +1,7 @@
  = [     11111   ]
 waittime=0.015 #It checks every hour
 import datetime
-
+gueen
 from pyquery import PyQuery as pq
 import mechanize
 import cookielib
