@@ -8,6 +8,7 @@ import cookielib
 import re
 import getpass
 import time
+gueen
 ziya
 zi ya 
 def getCourse(browser,crn):
