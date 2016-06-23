@@ -45,8 +45,6 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 br.addheaders = [('User-agent', 'Chrome')]
 from selenium import webdriver
 
-you mo!
-
 while (True):
     print "----------------------------------"
     flag = True
