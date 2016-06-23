@@ -11,6 +11,7 @@ import time
 fangni gueen
 fangnimaheipi
 ziya
+gud
 zi ya 
 def getCourse(browser,crn):
     response = browser.open("https://ui2web1.apps.uillinois.edu/BANPROD1/bwckschd.p_disp_detail_sched?term_in=120168&crn_in="+str(crn))
